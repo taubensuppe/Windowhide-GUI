@@ -13,3 +13,5 @@ Originally, this Project was named "fuckveyon" because the teachers at our schoo
 It also changes the windowtitle, so if you hide your desired window, it will be renamed to "Microsoft Word". Please consider this project as abandoned and I probably wont update it again, I made this source almost a year ago. Also dont mind the messy code, I tried to clean everything up as good as possible and even commented some lines.
 
 ## Enjoy using it!
+
+![Screenshot](https://github.com/taubensuppe/Windowhide-GUI/blob/main/fuckveyon.png?raw=true)
