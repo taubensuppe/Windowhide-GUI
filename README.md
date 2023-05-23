@@ -4,7 +4,7 @@ AntiSS is a program made to hide almost any window from screen recordings and sc
 
 ## Compiling
 
-Use Visual Studio 2022 or newer and compile this source as x64 in Release. Alternatively you can download the precompiled version from the releases tab.
+Use Visual Studio 2022 or newer and compile this source as x64 in Release. Alternatively you can download the precompiled version from the releases tab. Note that the TrueTypeFont File I used has to be in the same folder as the executable so the ImGui Menu is shown properly, I was too lazy to merge the Font into the Sourcecode (which is possible). 
 
 ## What is this?
 
