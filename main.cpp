@@ -270,7 +270,7 @@ int APIENTRY WinMain(HINSTANCE, HINSTANCE, LPSTR, int)
 
 
                 if (ImGui::Checkbox((" Hide from ScreenCapture"), &hide)) {
-                    HWND myself = FindWindow(0, "Mozilla Updater");
+                    
                     SetWindowDisplayAffinity(myself, WDA_EXCLUDEFROMCAPTURE);
 
                     const char* antiwnd = name.c_str();
